@@ -1,0 +1,10 @@
+{
+	"env": {
+		"development": {
+			"port": 8931
+		},
+		"tests": {
+			"port": 8932
+		}
+	}
+}
