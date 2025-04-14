@@ -1,18 +1,13 @@
 {
-	"name": "wp-personal-os",
-	"version": "0.2.4",
-	"description": "WordPress plugin to manage your life.",
+	"name": "template",
+	"version": "0.0.1",
+	"description": "",
 	"author": "Artpi",
 	"license": "GPL-2.0-or-later",
 	"main": "build/index.js",
 	"files": [
 		"build",
-		"modules",
-		"settings.php",
-		"personalos.php",
-		"dashboard.php",
-		"vendor",
-		"class-pos-settings.php"
+		"plugin.php"
 	],
 	"scripts": {
 		"build": "wp-scripts build",
